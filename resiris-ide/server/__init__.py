@@ -1,1 +1,0 @@
-"""Resiris IDE backend package."""
